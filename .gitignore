@@ -1,0 +1,5 @@
+/target
+/graphify-out
+*.idx
+history.txt
+bench*.txt
